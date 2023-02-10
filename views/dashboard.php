@@ -44,7 +44,7 @@
     <!-- Do this after creating logout.php and method getAllUsers-->
     <main class="row justify-content-center gx-0">
         <div class="col-6">
-            <h2 class="text-center">USER LIST</h2>
+            <h2 class="text-center">USERS LIST</h2>
 
             <table class="table table-hover align-middle">
                 <thead>
